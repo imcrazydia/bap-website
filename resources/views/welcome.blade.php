@@ -81,8 +81,9 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    My first laravel website
                 </div>
+                <h2>Diaquino Fortmeier, MD2A</h2>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
