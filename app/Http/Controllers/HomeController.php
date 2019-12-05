@@ -7,7 +7,6 @@ use Illuminate\Http\Request;
 class HomeController extends Controller
 {
     public function index() {
-
         //Producten ophalen uit de database
         $products = [
             'Broodrooster',

@@ -13,3 +13,5 @@
 
 Route::get('/', 'HomeController@index')->name('home');
 Route::get('/hallo/{name}', 'HomeController@showName')->name('hallo');
+Route::get('/product/create', 'ProductController@create')->name('contact.form');
+Route::post('/product/create', 'ProductController@store')->name('product.store');

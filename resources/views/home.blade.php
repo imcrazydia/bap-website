@@ -28,5 +28,5 @@
 
 @endforeach
 
-<p>Lorem ipsum dolor sit amet</p>
+<a href="{{ route('contact.form') }}">Form</a>
 @endsection
